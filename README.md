@@ -1,5 +1,5 @@
 This repository is dedicated to Yandex Practicum’s Data Analyst (DAYP). It contains all major projects, completed in the program. Please feel free to take a look at the program syllabus and scroll through  ![official website](https://practicum.yandex.ru), in meanwhile, I invite you to take a look at the projects, my certificate of completion, and highlights from the program.
-_______
+
 ## Data Analyst Certificate
 ![image](https://user-images.githubusercontent.com/124355797/218448709-422a8fec-e1b1-49d6-9d76-db55972cafb4.png)
 ![image](https://user-images.githubusercontent.com/124355797/218448013-73745b29-0fe3-4ffe-8c79-99f1492eea64.png)
@@ -7,7 +7,7 @@ _______
 
 
 ## Program Highlights
-_______
+
 DAYP program equipt me well with essential knowledge of data analysis. The lessons, case studies, and projects covered all aspects of data analysis:
 
 ● Defining problem and analytical questions \
@@ -20,7 +20,7 @@ Additionally, I enjoyed the emphasis on Python libraries such as Pandas, NumPy, 
 
 
 ## Projects
-_______
+
 Please find the summaries for each of the main projects that I have completed in the (DAYP) Program in the section below. Each individual summary contains project highlights and links to the project’s repository and submission review.
 
 ### 🟣 Project 1- ![Analyze A/B Test Results](https://github.com/ZhannaUp/Practicum-Data-Analyst-Program_Portfolio-of-the-Projects/blob/main/assessment_of%20_AB_testing%20the%20results.ipynb)
