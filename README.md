@@ -33,7 +33,7 @@ In this project, I am performing A/B testing for the company’s new website. I 
 ### 🟣 Project 2 - <a href="https://github.com/ZhannaUp/Practicum-Data-Analyst-Program_Portfolio-of-the-Projects/tree/main/Projects/Business%20metrics%20of%20Ad%20campaigns">Business metrics of Ad campaigns</a>
 
 
-### 🟣 Project 3 - <a href="https://github.com/ZhannaUp/Practicum-Data-Analyst-Program_Portfolio-of-the-Projects/tree/main/Projects/Business%20metrics%20of%20Ad%20campaigns">Product analysis</a>
+### 🟣 Project 3 - <a href="https://github.com/ZhannaUp/Practicum-Data-Analyst-Program_Portfolio-of-the-Projects/tree/main/Projects/Product%20analysis">Product analysis</a>
 
 ### 🟣 Project 4
 
