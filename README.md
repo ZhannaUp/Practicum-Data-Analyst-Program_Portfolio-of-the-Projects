@@ -23,7 +23,7 @@ Additionally, I enjoyed the emphasis on Python libraries such as Pandas, NumPy, 
 _______
 Please find the summaries for each of the main projects that I have completed in the (DAYP) Program in the section below. Each individual summary contains project highlights and links to the project’s repository and submission review.
 
-### 🟣 Project 1- Analyze A/B Test Results
+### 🟣 Project 1- ![Analyze A/B Test Results](https://github.com/ZhannaUp/Practicum-Data-Analyst-Program_Portfolio-of-the-Projects/blob/main/assessment_of%20_AB_testing%20the%20results.ipynb)
 In this project, I am performing A/B testing for the company’s new website. I performed hypothesis testing with Python and NumPy to determine p-value and used regression models to advise if the company should launch a new website. The result is robust statistical analysis and interpretation of results to ensure the right decision for the company. The highlights of this project are interpretations of p-value, z-score and critical value, use of full rank models, VIF and higher-order interactions in regression models.
 
 ### 🟣 Project 2
