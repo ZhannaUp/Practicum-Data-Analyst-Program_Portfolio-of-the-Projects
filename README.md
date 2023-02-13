@@ -30,7 +30,7 @@ Please find the summaries for each of the main projects that I have completed in
   
 In this project, I am performing A/B testing for the company’s new website. I performed hypothesis testing with Python and NumPy to determine p-value and used regression models to advise if the company should launch a new website. The result is robust statistical analysis and interpretation of results to ensure the right decision for the company. The highlights of this project are interpretations of p-value, z-score and critical value, use of full rank models, VIF and higher-order interactions in regression models.
 
-### 🟣 Project 2
+### 🟣 Project 2 Business metrics of Ad campaigns 
 
 ### 🟣 Project 3
 
