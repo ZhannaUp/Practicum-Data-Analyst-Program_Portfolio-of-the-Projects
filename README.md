@@ -1,7 +1,7 @@
 This repository is dedicated to Yandex Practicum’s Data Analyst (DAYP). It contains all major projects, completed in the program. Please feel free to take a look at the program syllabus and scroll through  ![official website](https://practicum.yandex.ru), in meanwhile, I invite you to take a look at the projects, my certificate of completion, and highlights from the program.
 _______
 ## Data Analyst Certificate
-![DA](https://github.com/ZhannaUp/Practicum-Data-Analyst-Program_Portfolio-of-the-Projects/blob/main/da.png?raw=true)
+![image](https://user-images.githubusercontent.com/124355797/218448709-422a8fec-e1b1-49d6-9d76-db55972cafb4.png)
 ![image](https://user-images.githubusercontent.com/124355797/218448013-73745b29-0fe3-4ffe-8c79-99f1492eea64.png)
 
 
