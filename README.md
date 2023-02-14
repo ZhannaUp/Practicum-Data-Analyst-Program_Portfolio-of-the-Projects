@@ -41,6 +41,6 @@ In this project, I am performing A/B testing for the company’s new website. I 
 
 ### 🟣 Project 6 - <a href="https://github.com/ZhannaUp/Practicum-Data-Analyst-Program_Portfolio-of-the-Projects/tree/main/Projects/Explore%20Real%20estate%20market">Explore Real estate market</a>
 
-### 🟣 Project 7 - <a href="https://github.com/ZhannaUp/Practicum-Data-Analyst-Program_Portfolio-of-the-Projects/tree/main/Projects/Explore%20Real%20estate%20market">Business decision-making_AB_testing</a>
+### 🟣 Project 7 - <a href="https://github.com/ZhannaUp/Practicum-Data-Analyst-Program_Portfolio-of-the-Projects/tree/main/Projects/Business%20decision-making_AB_testing">Business decision-making_AB_testing</a>
   
-  
+### 🟣 Project 8 -  <a href=". ">Business decision-making_AB_testing</a>
