@@ -37,6 +37,8 @@ In this project, I am performing A/B testing for the company’s new website. I 
 
 ### 🟣 Project 4 - <a href="https://github.com/ZhannaUp/Practicum-Data-Analyst-Program_Portfolio-of-the-Projects/tree/main/Projects/SQL">SQL</a>
 
-### 🟣 Project 5 - <a href="https://github.com/ZhannaUp/Practicum-Data-Analyst-Program_Portfolio-of-the-Projects/tree/main/Projects/SQL">Catering market research</a>
+### 🟣 Project 5 - <a href="https://github.com/ZhannaUp/Practicum-Data-Analyst-Program_Portfolio-of-the-Projects/tree/main/Projects/Catering%20Market%20Research">Catering market research</a>
 
+### 🟣 Project 6 -
 
+### 🟣 Project 7 -
