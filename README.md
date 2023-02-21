@@ -3,7 +3,7 @@ This repository is dedicated to Yandex Practicum’s Data Analyst (DAYP). It con
 ## Data Analyst Certificate
 <p class="aligncenter">
   <img src="https://user-images.githubusercontent.com/124355797/218448709-422a8fec-e1b1-49d6-9d76-db55972cafb4.png" width="500">
-  <img src="https://user-images.githubusercontent.com/124355797/218448013-73745b29-0fe3-4ffe-8c79-99f1492eea64.png" width="500">
+  <img src="https://user-images.githubusercontent.com/124355797/220269678-26da8129-40f0-4fe2-8e4b-2d22f4ab76e8.png" width="500">
 </p>
 
 <p align="center"><em>Certificate of Completion<em>
