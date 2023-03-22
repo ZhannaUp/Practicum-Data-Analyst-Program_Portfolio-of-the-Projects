@@ -51,7 +51,7 @@ conversions by groups, and then calculated the statistical significance of diffe
 Skills and tools: Python, Pandas, Matplotlib, SciPy, A/B testing, statistical hypothesis testing.\
 Fields of activity: Online stores.
 
-### 🟣 Project 8 -  <a href=". ">User behavior analysis</a>
+### 🟣 Project 8 -  <a href="https://github.com/ZhannaUp/Practicum-Data-Analyst-Program_Portfolio-of-the-Projects/tree/main/Projects/User%20behavior%20analysis">User behavior analysis</a>
 In this project, I have studied the principles of event analytics. I built a sales funnel, researched the users' path to purchase. Analyzed
 the results of the A/B test for the introduction of new fonts. I compared 2 control groups with each other, made sure that the traffic was divided correctly, and then compared it with the test group. It was revealed that the new font will not significantly affect user behavior.\
 Skills and tools: A/B testing, Python, Pandas, Matplotlib, Seaborn, Event analytics, Product metrics, Plotly, statistical hypothesis testing, data visualization.\
