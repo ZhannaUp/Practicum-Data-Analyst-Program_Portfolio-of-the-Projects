@@ -3,7 +3,7 @@
 
 
 <p class="aligncenter">
-  <img src="https://planning-org-uploaded-media.s3.amazonaws.com/image/houses-magnifying-glass-illustration.jpg" width="500">
+  <img src="https://planning-org-uploaded-media.s3.amazonaws.com/image/houses-magnifying-glass-illustration.jpg" width="1000">
 </p>
 
 В распоряжении данные сервиса о недвижимости — архив объявлений о продаже квартир в Санкт-Петербурге и соседних населённых пунктов за несколько лет.
