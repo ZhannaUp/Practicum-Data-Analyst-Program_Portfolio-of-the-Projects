@@ -57,5 +57,5 @@ the results of the A/B test for the introduction of new fonts. I compared 2 cont
 Skills and tools: A/B testing, Python, Pandas, Matplotlib, Seaborn, Event analytics, Product metrics, Plotly, statistical hypothesis testing, data visualization.\
 Fields of activity: Startups, Business, Internet services.
 
-### 🟣 Project 9 -  <a href=". ">Data Mining_games</a>
+### 🟣 Project 9 -  <a href="https://github.com/ZhannaUp/Practicum-Data-Analyst-Program_Portfolio-of-the-Projects/tree/main/Projects/Data%20Mining_games">Data Mining_games</a>
 
